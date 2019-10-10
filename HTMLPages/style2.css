@@ -1,0 +1,13 @@
+    a{
+    text-decoration: none;
+    }
+
+a:link{
+    color: white;
+}
+a:visited{
+    color: coral;
+}
+a:hover{
+    background-color: aquamarine;
+}
